@@ -21,15 +21,15 @@ body {
 }
 .bottomCircle {
   position: absolute;
-  top: 40%;
-  left: 40%;
+  top: 50%;
+  left: 48%;
   z-index: 0;
 }
 
 .topCircle {
   position: absolute;
-  right: 45%;
-  bottom: 35%;
+  right: 51%;
+  bottom: 36%;
   z-index: 0;
 }
 
